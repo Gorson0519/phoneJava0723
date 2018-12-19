@@ -1,0 +1,66 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="CheckMobileWork:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/CheckMobileWork_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="CheckMobileWork/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="CheckMobileWork" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: com.alibaba:druid:1.0.25" />
+          <element id="library" level="module" name="Maven: com.alibaba:jconsole:1.8.0" module-name="CheckMobileWork" />
+          <element id="library" level="module" name="Maven: com.alibaba:tools:1.8.0" module-name="CheckMobileWork" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.5.0" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.5.4" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.5.4" />
+          <element id="library" level="project" name="Maven: com.github.virtuald:curvesapi:1.04" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.10" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+          <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.35" />
+          <element id="library" level="project" name="Maven: org.apache.ant:ant-launcher:1.8.2" />
+          <element id="library" level="project" name="Maven: org.apache.ant:ant:1.8.2" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-collections4:4.1" />
+          <element id="library" level="project" name="Maven: org.apache.poi:poi-excelant:3.16" />
+          <element id="library" level="project" name="Maven: org.apache.poi:poi-ooxml-schemas:3.16" />
+          <element id="library" level="project" name="Maven: org.apache.poi:poi-ooxml:3.16" />
+          <element id="library" level="project" name="Maven: org.apache.poi:poi:3.16" />
+          <element id="library" level="project" name="Maven: org.apache.xmlbeans:xmlbeans:2.6.0" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.8.9" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:1.2.3" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.3.0" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.12" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-test:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: stax:stax-api:1.0.1" />
+          <element id="library" level="project" name="Maven: taglibs:standard:1.1.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:2.8.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:2.8.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.8.1" />
+          <element id="library" level="project" name="Maven: javax.annotation:javax.annotation-api:1.2" />
+          <element id="library" level="project" name="Maven: javax.ws.rs:javax.ws.rs-api:2.0.1" />
+          <element id="library" level="project" name="Maven: org.apache.cxf:cxf-core:3.1.7" />
+          <element id="library" level="project" name="Maven: org.apache.cxf:cxf-rt-frontend-jaxrs:3.1.7" />
+          <element id="library" level="project" name="Maven: org.apache.cxf:cxf-rt-rs-client:3.1.7" />
+          <element id="library" level="project" name="Maven: org.apache.cxf:cxf-rt-rs-service-description:3.1.7" />
+          <element id="library" level="project" name="Maven: org.apache.cxf:cxf-rt-transports-http:3.1.7" />
+          <element id="library" level="project" name="Maven: org.apache.ws.xmlschema:xmlschema-core:2.2.1" />
+          <element id="library" level="project" name="Maven: org.codehaus.woodstox:stax2-api:3.1.4" />
+          <element id="library" level="project" name="Maven: org.codehaus.woodstox:woodstox-core-asl:4.4.1" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aspects:4.1.7.RELEASE" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
