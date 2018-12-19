@@ -11,7 +11,7 @@ public class Mobile {
     private String mobileType;
     private String areaCode;
     private String postCode;
-
+    //需要加注释
     public Integer getId() {
         return id;
     }
