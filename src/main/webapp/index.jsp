@@ -43,7 +43,7 @@
 </head>
 <body>
 <form action="" method="post" >
-     请输入手机号:<input id="numbercheck" type="text" name="mobilenumber">
+    你好,请输入手机号:<input id="numbercheck" type="text" name="mobilenumber">
     &nbsp;&nbsp;<input type="button" value="查询" onclick="ConfirmNumber()">
     <div id="showInfo"></div>
 </form>
